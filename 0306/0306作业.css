@@ -1,0 +1,21 @@
+fieldset {
+    width: 425px;
+}
+
+input {
+    width: 410px;
+}
+
+legend {
+    font-size: 18px;
+    color: red;
+}
+
+form {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+span {
+    color: red;
+}
